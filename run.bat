@@ -1,0 +1,1 @@
+..\qemu-system-x86_64 -hda dos.qcow -m 256 -fda fat:floppy:ro:floppy -monitor stdio
